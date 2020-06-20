@@ -5,7 +5,7 @@ First clone the repository or download the files directly to your computer.
 put the l3_mySwitch.py into your pox/pox/forwarding folder and run the following command
 
 $cd  
-$cd pox. 
+$cd pox  
 $python ./pox.py forwarding.l3_mySwitch. 
 
 in another terminal,
